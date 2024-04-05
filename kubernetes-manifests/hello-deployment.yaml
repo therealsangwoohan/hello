@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello
-        image: therealsangwoohan/hello:latest
+        image: therealsangwoohan/hello:0.0.2
         ports:
         - containerPort: 80
